@@ -1,0 +1,7 @@
+** on testnet **
+** from logs3.txt **
+
+Locking TX: ccfba5bf32f5d98b3eb486563e90f8f4ea3f07d7547e104310e58d5ed4b92e13
+
+Spending TX: 11ea440701ba0ed49b0cc8727ec1ed8806fc82b16c7774ad554e03ba628b8bb4
+
